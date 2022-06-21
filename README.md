@@ -1,4 +1,4 @@
-# FTP-setup-on-Debian
+# FTP setup for debian and fedora
 
 To uninstall FTP use FTP uninstall bash.
 
